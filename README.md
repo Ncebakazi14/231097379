@@ -1,4 +1,4 @@
-![GitHub Student Account](student account.png)
+![GitHub Student Account](student-account.png)
 
 # Ncebakazi Ndiza  
 Application Development Student  
