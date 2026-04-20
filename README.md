@@ -15,15 +15,14 @@ Motivated Applications Development student seeking opportunities to gain practic
 ---
 
 ## 🎓 Education
-
 **Kwa-Komani Technical**  
-Matric
+Matric — Completed 2022
 
 **Cape Peninsula University of Technology**  
-Higher Certificate in ICT
+Higher Certificate in ICT — Jan 2023 – Dec 2023
 
 **Cape Peninsula University of Technology**  
-Diploma in ICT (Applications Development) – Final Year
+Diploma in ICT (Applications Development) – Final Year — Jan 2024 – Dec 2026
 
 ---
 
