@@ -1,4 +1,4 @@
-##Github Student Account
+#Github Student Account
 
 ![GitHub Student Account](student-account.png)
 
@@ -8,18 +8,18 @@
 # Ncebakazi Ndiza  
 Application Development Student  
 
-📍 Adderley Street, Foreshore, Cape Town  
-📧 231097379@mycput.ac.za  
-📞 079 284 0932  
+ Adderley Street, Foreshore, Cape Town  
+ 231097379@mycput.ac.za  
+ 079 284 0932  
 
 ---
 
-## 🎯 Career Objective
+##  Career Objective
 Motivated Applications Development student seeking opportunities to gain practical experience in software development. Passionate about building real-world digital solutions and improving technical and problem-solving skills.
 
 ---
 
-## 🎓 Education
+##  Education
 **Kwa-Komani Technical**  
 Matric — Completed 2022
 
@@ -31,7 +31,7 @@ Diploma in ICT (Applications Development) – Final Year — Jan 2024 – Dec 20
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 - Java  
 - Python  
@@ -43,7 +43,7 @@ Diploma in ICT (Applications Development) – Final Year — Jan 2024 – Dec 20
 
 ---
 
-## 💼 Projects
+##  Projects
 
 **Gym Equipment & Clothing Sales (2023)**  
 - Developed a concept for selling fitness equipment  
@@ -59,7 +59,7 @@ Diploma in ICT (Applications Development) – Final Year — Jan 2024 – Dec 20
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 **Administrative Assistant – Cyngatha Cafeteria**  
 (March 2026 – May 2026)  
@@ -70,20 +70,20 @@ Diploma in ICT (Applications Development) – Final Year — Jan 2024 – Dec 20
 
 ---
 
-## 📞 References
+##  References
 
 **Ms N. Malilwana**  
 General Manager – Cyngatha Cafeteria  
-📞 069 255 8177  
+ 069 255 8177  
 
 ---
 
 **Mr Zukile Ndyalivana**  
 Teacher  
-📞 062 030 1601  
+ 062 030 1601  
 
 ---
-## 📝 Reflection on Coding my CV in Markdown
+##  Reflection on Coding my CV in Markdown
 **Situation**: As part of my final year Digital Portfolio assessment, I was required to present my CV professionally on GitHub.  
 **Task**: I had to code my CV using Markdown language, which I had never used before.  
 **Action**: I taught myself the basic Markdown syntax — headings, bullet points, bold text and dividers — and structured my CV section by section directly in the README.md file on GitHub.  
@@ -92,13 +92,13 @@ Teacher
 <video width="600" controls>
   <source src="interview.mp4" type="video/mp4">
 </video>
-## 📝 Reflection on the Mock Interview Experience
+##  Reflection on the Mock Interview Experience
 **Situation**: As part of the assessment, I had to complete a mock interview as preparation for entering the professional world.  
 **Task**: I was given a set of interview questions to choose from, and I had to record myself answering them and embed the video on my GitHub page.  
 **Action**: I selected questions that best reflected my skills and experience, recorded my responses, and embedded the video into my README.md file using HTML within Markdown.  
 **Result**: Seeing myself answer interview questions on camera was uncomfortable at first, but it was incredibly valuable. It helped me identify areas to improve in how I present myself and gave me more confidence for real interviews in the future.
 
-## 📝 Reflection on the Use of GitHub Pages
+##  Reflection on the Use of GitHub Pages
 **Situation**: All my work — CV, mock interview video and reflections — needed to be accessible via a live link that anyone could open directly in a browser.  
 **Task**: I had to publish my README.md file using GitHub Pages so that everything displayed correctly on a live webpage.  
 **Action**: I enabled GitHub Pages through the repository settings, selected the correct branch, and repeatedly tested the live link to make sure the CV, video and all content rendered properly. When things did not display correctly, I troubleshot by checking file names, paths and Markdown formatting.  
