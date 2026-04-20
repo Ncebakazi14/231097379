@@ -1,4 +1,4 @@
-# **GitHub Student Account**
+**GitHub Student Account**
 
 ![GitHub Student Account](student-account.png)
 
