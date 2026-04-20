@@ -1,3 +1,6 @@
+![GitHub Student Account](student.png)
+
+
 # Ncebakazi Ndiza  
 Application Development Student  
 
