@@ -1,4 +1,9 @@
+##Github Student Account
+
 ![GitHub Student Account](student-account.png)
+
+*Username:* Ncebakazi14
+[View GitHub Profile](https://github.com/Ncebakazi14)
 
 # Ncebakazi Ndiza  
 Application Development Student  
